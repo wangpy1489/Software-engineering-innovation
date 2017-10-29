@@ -123,5 +123,6 @@ Githubflow is very suitable for constantly released products. However, in some c
 #### Refrence
 [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
-[Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
+[Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)  
+
 [Markdown 语法说明](http://www.appinn.com/markdown/#p)
